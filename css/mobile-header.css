@@ -1,0 +1,150 @@
+body {
+  font-family: "Gideon Roman", serif;
+}
+.pl {
+    padding-left: 0px;
+}
+.pr {
+    padding-right: 0px;
+}
+.pb {
+    padding-bottom: 0px;
+}
+.pr10 {
+    padding-right: 10px;
+}
+.desktop-header {
+    display: none; /* Hide desktop header */
+}
+
+.mobile-header {
+    display: block; /* Show mobile header */
+}
+@media (max-width: 1024px) {
+    .desktop-header {
+        display: none; /* Hide desktop header */
+    }
+
+    .mobile-header {
+        display: block; /* Show mobile header */
+    }
+}
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+header {
+    background-color: #fff;
+}
+
+header {
+    transition: 0.35s;
+    z-index: 999;
+}
+
+header .main-header .navbar .navbar-brand img {
+    height: 60px;
+    width: 230px;
+}
+header .main-header .navbar .navbar-nav .nav-item .nav-link {
+    color: #34398a;
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+}
+header .main-header .navbar .navbar-nav .nav-item .nav-link:hover:after {
+    width: 100%;
+    left: 0;
+}
+header .main-header .navbar .navbar-nav .nav-item .downarrow {
+    position: relative;
+    margin-right: 10px;
+}
+header .main-header .navbar .navbar-nav .nav-item .downarrow:before {
+    display: inline-block;
+    vertical-align: 0.255em;
+    content: "";
+    position: absolute;
+    right: -5px;
+    top: 16px;
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+}
+header .main-header .navbar .navbar-nav .nav-item .dropdown-menu {
+    border-radius: 0;
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
+    padding: 0;
+}
+header .main-header .navbar-expand-lg {
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.1);
+}
+/*  header css code from responsive.css header navigation*/
+#nav-toggle span,
+#nav-toggle span:after,
+#nav-toggle span:before {
+    cursor: pointer;
+    border-radius: 1px;
+    height: 5px;
+    width: 35px;
+    border-radius: 10px;
+    background: #34398a;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    display: block;
+    content: "";
+    transition: 0.5s ease-in-out;
+}
+.dropdown button,
+.dropdown button:hover {
+    background-color: transparent;
+    border: none;
+    color: #34398A;
+    position: absolute;
+    right: -8px;
+    top: 1px;
+}
+.dropdown button:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.dropdown-menu li a {
+    font-size: 18px;
+    color: #34398A;
+}
+header .main-header .navbar .navbar-nav .nav-item .downarrow:before {
+    display: none;
+}
+button#nav-toggle,
+button#nav-toggle:focus {
+    position: relative;
+    outline: 0;
+    border: none;
+    box-shadow: none;
+}
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+    background-color: #34398A;
+}
+#nav-toggle span:before {
+    top: -10px;
+}
+#nav-toggle span:after {
+    top: 10px;
+}
+#nav-toggle.active span {
+    background-color: transparent;
+}
+#nav-toggle.active span:after,
+#nav-toggle.active span:before {
+    top: 0;
+}
+#nav-toggle.active span:before {
+    transform: rotate(135deg);
+}
+#nav-toggle.active span:after {
+    transform: rotate(-135deg);
+}

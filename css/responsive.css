@@ -1,0 +1,283 @@
+
+    
+
+@media (min-width: 768px) and (max-width: 992px){
+    .home-video-wrap{
+        min-height: 450px;
+    }    
+    .sub-menu-section ul{
+        width: 100%;
+        height: 100%;
+        display: block;
+    }
+    .events-section .events-wrap{
+        flex-direction: column-reverse;
+    }
+    .events-section .tab-pane{
+        padding: 15px;
+        justify-content: center;
+    }
+    .curriculum-page .left-img-right-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .curriculum-page .left-img-right-content .heading,
+    .curriculum-page .left-content-right-img .heading{
+      width: calc(100% - 30%);
+    }  
+    .skill-clubs-page .skills-box{
+        width: 40%;
+    }        
+    .py50r{
+        padding: 20px 0px;
+    }
+    .px50r{
+        padding: 0px 20px;
+    }
+}
+
+
+
+
+
+@media (max-width: 767px){
+    .col-sm-6{
+        width: 50%  ;
+    }
+    .change{
+        width: 80%;
+    }
+    .banner-section{
+        height: 200px;
+    }
+    .home-video-wrap{
+        min-height: 250px;
+    }
+    .excellence-video{
+        height: 250px;
+    }
+    .events-section .events-wrap{
+        flex-direction: column-reverse;
+    }
+    .pie-section .pr100{
+        padding-right: 0px;
+    }
+    .container-fluid.amenties{
+        height: 500px;
+    }
+    .awards-page .certificate-box{
+        width: 35%;
+    }
+    .container-fluid.awards-counter{
+        height: 400px;
+    }
+    .hof.container{
+        /* --bs-gutter-x: 0px; */
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .hof-box{
+        width: 35%;
+    }    
+    .hof-box .desc{
+        font-size: 12px;
+    }
+    .hof .h6r {
+        font-size: clamp(0.8em, 1vw, 1em);
+    }
+    .curriculum-page .h4r {
+        font-size: clamp(1em, 4vw, 1.75em);
+    }
+    /* .sub-menu-section .navbar-collapse{
+        display: none;
+    }
+    .sub-menu-section .navbar-collapse.show{
+        display: block;
+    } */
+    .sub-menu-section .px50{
+        padding: 0px 20px;
+    }
+    .sub-menu-section ul.navbar-nav {
+        padding: 10px 0px;
+    }
+    .sub-menu-section ul{
+        height: 100%;
+        width: 100%;
+        display: block;
+    }
+    .events-section .events-wrap{
+        flex-direction: column-reverse;
+    }
+    .events-section .tab-pane{
+        padding: 15px;
+        justify-content: center;
+    }
+    .gtco-testimonials .owl-stage-outer{
+        padding: 0px;
+    }
+    .sub-menu-section ul li{
+        margin: 10px 10px;
+    }
+    .curriculum-page .left-content-right-img.p20,
+    .curriculum-page .left-img-right-content.p20{
+        padding: 0px;
+    }
+    .curriculum-page .left-content-right-img .content.pt80,
+    .curriculum-page .left-img-right-content .content.pt80{
+        padding-top: 100px;
+    }
+    .curriculum-page .left-content-right-img,
+    .curriculum-page .left-img-right-content{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .curriculum-page .left-img-right-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column-reverse;
+    }
+    .curriculum-page .left-img-right-content .heading,
+    .curriculum-page .left-content-right-img .heading{
+      width: calc(100% - 30%);
+    }
+    .skill-clubs-page .skills-box{
+        width: 90%;
+    } 
+    .transport-page .transport-wrap{
+        row-gap: 40px;
+        column-gap: 20px;
+    }
+    .transport-page .transport-wrap .transport-box{
+        width: 100%;
+        height: fit-content;
+    }
+    .admission-policy-wrap{
+       flex-wrap: wrap;
+       justify-content: start;
+    }
+    .admission-policy-wrap .admission-policy-box{
+        width: 45%;
+        margin: 0px;
+    }
+    .py50r{
+        padding: 10px 0px;
+    }
+    .px50r{
+        padding: 0px 10px;
+    }
+    .partners-box {
+        margin: 10px 8px;
+        padding: 10px;
+    }
+    .advisory-page .section-2 .flex-rev-col{
+        /* display: flex; */
+        flex-direction: column-reverse;
+    }
+    .about-us-page .section-3 .flex-rev-col{
+        /* display: flex; */
+        flex-direction: column-reverse;
+    }
+    .learning-stage-page .left-img-right-content,
+    .learning-stage-page .left-content-right-img{
+        margin: 10px ;
+    }   
+    .learning-stage-page .content-box{
+        height: fit-content;
+        width: 100% ;
+    }        
+    /* .learning-stage-page .para{
+        font-size: clamp(0.8em, 1vw, 0.9em);
+    }         */
+    .learning-stage-page .left-img-right-content .content-box{
+        margin-left: 0px;
+        padding-left: 20px;
+    }
+    .learning-stage-page .left-content-right-img .content-box{
+        margin-left: 0px;
+        padding-right: 20px;
+    }
+    .learning-stage-page .left-content-right-img{
+        flex-direction: column-reverse;
+    }
+    .student-council-page .overlay p{
+        font-size: 1em;
+    }
+    .community-outreach-page .outreach-box{
+        width: 100%;
+    }
+    .flex-row-col-rev{
+        flex-direction: column-reverse;
+    }
+    .skill-development-page .heading-box{
+        width: 80%;
+    }
+    .skill-development-page .img-box{
+        height: 100%;
+    }
+    .admission-policy-page .imp-notes .p50{
+        margin-top: 40px;
+        margin-bottom: 40px;
+        padding: 15px;
+    }
+    .admission-policy-page .imp-notes ul{
+        padding-left: 1rem;
+    }
+    .admission-policy-page form .w100{
+        width: 100%;
+    }
+    .admission-policy-wrap .admission-policy-box{
+        height: 120px;
+    }
+    .school-rules-page .content-box {
+        height: fit-content;
+        width: 100%;
+    }   
+    .school-rules-page .left-img-right-content .content-box {
+        margin-left: 0px;
+        padding-left: 20px;
+    } 
+    .school-rules-page .left-content-right-img .content-box{
+        padding-right: 20px;
+    }
+    .fees-structure-page .tabs-area .container
+    /* .fees-structure-page .tabs-area.container-fluid*/
+    {
+        padding-right: 0px;
+    } 
+    .fees-structure-page .tabs-area .main-tabs-wrap .nav{
+        flex-wrap: nowrap;
+    }
+    .fees-structure-page .tabs-area .main-tabs-wrap .nav .h5r {
+        font-size: clamp(1.1em, 4vw, 1.5em);
+    }
+    .fees-structure-page .main-tabs-wrap .tab-content .nav {
+        /* --bs-nav-link-padding-x: 0px !important; */
+        flex-wrap: nowrap !important;
+        overflow: scroll;
+    }
+    .fees-structure-page .adx-flex{
+        justify-content: space-evenly;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }    
+    .fees-structure-page .adx-flex:focus,
+    .fees-structure-page .adx-flex:hover{
+        cursor: w-resize;
+    }
+    .fees-structure-page .tab-content .nav-link{
+        width: 200px;
+    }
+}    
+
+
+
+
+
+@media (max-width: 400px){
+    .home-video-wrap{
+        min-height: 200px;
+    }
+}
