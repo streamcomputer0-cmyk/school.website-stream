@@ -1,0 +1,2984 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\npm\bootstrap@5.3.0-alpha1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\font-awesome\5.15.3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Roboto:wght@100;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/gideonroman/v13/e3tmeuGrVOys8sxzZgWlmXogew.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\gideonroman\v13\e3tmeuGrVOys8sxzZgWlmXogew.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v50/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s\roboto\v50\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1397521/arrowBottom.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s.cdpn.io\1397521\arrowBottom.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1397521/arrowLeft.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s.cdpn.io\1397521\arrowLeft.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1397521/arrowRight.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s.cdpn.io\1397521\arrowRight.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1397521/arrowTop.svg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\s.cdpn.io\1397521\arrowTop.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sweetalert@2.1.2\dist\sweetalert.min.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-4R32W8CKFQ
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-SF14LGGYKC
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\index.htm
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/about-director-sports
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\about-director-sports.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/about-us
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/achievements-of-players
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\achievements-of-players.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/admin/assets/js/alert_show.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\admin\assets\js\alert_show.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/admission-enquiry
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\admission-enquiry.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/admission-policy
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\admission-policy.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/assessments
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assessments.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/css/desktop-header.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\desktop-header.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/css/mobile-header.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\mobile-header.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://www.sarvottamnoida.com/assets/doc/New_Cambridge_Admission_form_08-07-2025.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\doc\New_Cambridge_Admission_form_08-07-2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/doc/New_CBSE_Application_Form_08-07-2025.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\doc\New_CBSE_Application_Form_08-07-2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/favicon.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\favicon.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/19.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\19.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/20.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\20.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/21.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\21.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/22.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\22.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/about-intro-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\about-intro-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/excellence.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\excellence.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/impact.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\impact.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/our-mission.jpeg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\our-mission.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/philosophy/pedagogy.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\philosophy\pedagogy.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/philosophy/philosophy2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\philosophy\philosophy2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/philosophy/philosophy3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\philosophy\philosophy3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/philosophy/philosophy4.jpg.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\philosophy\philosophy4.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/resarch.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\resarch.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/sarvottam-building.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\sarvottam-building.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/student.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\student.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/team/gurpreet.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\team\gurpreet.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/team/mahesh_kumar_sharma.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\team\mahesh_kumar_sharma.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/team/pooja.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\team\pooja.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/team/Priyanka-Mehta.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\team\Priyanka-Mehta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/team/Rashmi Kapoor.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\team\Rashmi Kapoor.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/about-us/vision.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\about-us\vision.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/assessments/EXAMINATION SCHEDULE FOR CLASSES NUR-2 FOR THE SESSION 2024-25_page-0001.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\assessments\EXAMINATION SCHEDULE FOR CLASSES NUR-2 FOR THE SESSION 2024-25_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/assessments/TESFCIIITOXIIFTS-2024-25.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\assessments\TESFCIIITOXIIFTS-2024-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/cirriculam.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\cirriculam.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/Details.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\Details.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/INTRO.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\INTRO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/LEARNING.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\LEARNING.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/MIDDLE STAGE.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\MIDDLE STAGE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/pen-icon.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\pen-icon.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/SECONDARY.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\SECONDARY.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/stage.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\stage.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/curriculum/UNIQUE-ASSESSMENT-APPROACH.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\curriculum\UNIQUE-ASSESSMENT-APPROACH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/learning-stages/learning Little.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\learning-stages\learning Little.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/learning-stages/learning Senior Stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\learning-stages\learning Senior Stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/learning-stages/learning-Middle-Stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\learning-stages\learning-Middle-Stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/academics/learning-stages/learning-Prepatory.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\academics\learning-stages\learning-Prepatory.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Award_ipn.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Award_ipn.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Award_S.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Award_S.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-3.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-3.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-4.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-4.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-5.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-5.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-6.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-6.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-7.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-7.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Certificate-8.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Certificate-8.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-11.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-12.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-13.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-14.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-15.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-16.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-17.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-18.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-19.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-20.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-21.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-22.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-23.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-3.jpg.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-3.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-8.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame-9.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/hall-of-fame/Halfoffame.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\hall-of-fame\Halfoffame.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Project_based_learning_Champion.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Project_based_learning_Champion.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/School_Award_2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\School_Award_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/awards/Sustainability_Award.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\awards\Sustainability_Award.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/about-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/about-us-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\about-us-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/academics.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\academics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/all-teacher-new.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\all-teacher-new.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/Assessment-banner-picture.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\Assessment-banner-picture.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/awards-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\awards-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/bann1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\bann1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/beyond-academics.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\beyond-academics.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/bg-shade.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\bg-shade.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/community-outreach.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\community-outreach.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/council.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\council.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/Counselling-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\Counselling-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/ibt.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\ibt.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/infirmary.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\infirmary.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/infrastructure.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\infrastructure.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/labs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\labs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/library-new-01-oct-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\library-new-01-oct-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/parent-testimonial-video-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\parent-testimonial-video-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/philosophy.JPG
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\philosophy.JPG
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/skill-clubs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\skill-clubs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/skill-programs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\skill-programs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/sports.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\sports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/Teacher -Enrichement-banner.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\Teacher -Enrichement-banner.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/banners/wellness-programs-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\banners\wellness-programs-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/career-counselling/Counselling-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\career-counselling\Counselling-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/community-outreach/clean-up.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\community-outreach\clean-up.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/community-outreach/KHUSHI-Initiative.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\community-outreach\KHUSHI-Initiative.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/community-outreach/visiting-old-age-home.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\community-outreach\visiting-old-age-home.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/community-outreach/volunteering-at-local-shelters-or-food-bank.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\community-outreach\volunteering-at-local-shelters-or-food-bank.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Classical-Dance.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Classical-Dance.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/coding.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\coding.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/community.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\community.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Eco-Club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Eco-Club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Einstine.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Einstine.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Fashion.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Fashion.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Financial-Literacy.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Financial-Literacy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Maths-Club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Maths-Club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/music.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\music.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/nature-club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\nature-club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/nutrition.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\nutrition.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/public-speaking.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\public-speaking.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/robot-club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\robot-club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Sculpture-Image.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Sculpture-Image.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/Stiching.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\Stiching.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/theatre.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\theatre.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/western-dance.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\western-dance.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-clubs/yoga.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-clubs\yoga.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/skill-programs/voluntary-service.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\skill-programs\voluntary-service.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Archery & Shooting Range.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Archery & Shooting Range.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/badminton.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\badminton.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/basketball-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\basketball-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Carom.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Carom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Chess-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Chess-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/cricket-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\cricket-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Football.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Football.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/horse-riding.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\horse-riding.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/IAYP.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\IAYP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/karate-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\karate-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Lawn-tennis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Lawn-tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/peer-education.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\peer-education.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/shooting-sports-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\shooting-sports-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Skating.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Skating.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Swimming.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Swimming.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Table Tennis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Table Tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/Wall-Climbing.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\Wall-Climbing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/sports/wellness-program.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\sports\wellness-program.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/student-council/Artboard-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\student-council\Artboard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/student-council/Artboard-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\student-council\Artboard-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/student-council/Artboard-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\student-council\Artboard-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/student-council/Artboard-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\student-council\Artboard-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/wellness-program/wellness-program-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\wellness-program\wellness-program-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/beyond-academics/wellness-program/wellness-programs-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\beyond-academics\wellness-program\wellness-programs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/career/job-post-25-november-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\career\job-post-25-november-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/assets/img/ERP@1X.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\ERP@1X.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/green-olympiad.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\green-olympiad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Aadriti-Sahani.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Aadriti-Sahani.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/aarish-dhawan.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\aarish-dhawan.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Ahaana-Jindal.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Ahaana-Jindal.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/ananya-puri.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\ananya-puri.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Cambridge-Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Cambridge-Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/CBSE -Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\CBSE -Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/e-library.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\e-library.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Foundation-stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Foundation-stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Middle-Stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Middle-Stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/preparatory-stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\preparatory-stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Rishima-Tandon.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Rishima-Tandon.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/ruhani-khepar.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\ruhani-khepar.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/sanvi-sana.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\sanvi-sana.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/secondary-stage.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\secondary-stage.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Shubhangi-Upadhyay.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Shubhangi-Upadhyay.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Skill-based -Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Skill-based -Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/Value -Based- Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\Value -Based- Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/World-class- green -Campus.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\World-class- green -Campus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/home/yoga.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\home\yoga.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/humming-bird.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\humming-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/infirmary/infirmary-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\infirmary\infirmary-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/infirmary/infirmary-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\infirmary\infirmary-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/infirmary/infirmary-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\infirmary\infirmary-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/infirmary/infirmary-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\infirmary\infirmary-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/biology-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\biology-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/chemistry-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\chemistry-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/computer-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\computer-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/fashion-studio-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\fashion-studio-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/fine-arts.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\fine-arts.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/physics-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\physics-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/stream-lab-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\stream-lab-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/labs/Untitled design (5).jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\labs\Untitled design (5).jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/library/National Digital Library of India.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\library\National Digital Library of India.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/library/Scolastic Logo.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\library\Scolastic Logo.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/library/Virtual Library.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\library\Virtual Library.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/technologhy/GPS-buses.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\technologhy\GPS-buses.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/technologhy/lab.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\technologhy\lab.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/technologhy/School-ERP.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\technologhy\School-ERP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/technologhy/Smart-Panel.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\technologhy\Smart-Panel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/infrastructure/technologhy/Wifi-campus.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\infrastructure\technologhy\Wifi-campus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/new-campus/banner/banner-33-updated.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\new-campus\banner\banner-33-updated.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/orange-global.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\orange-global.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/our-team/Teacher- training-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\our-team\Teacher- training-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/our-team/Teacher-training-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\our-team\Teacher-training-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/our-team/Teacher-training-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\our-team\Teacher-training-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/our-team/Teacher-training-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\our-team\Teacher-training-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/our-team/Teacher-training-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\our-team\Teacher-training-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/almanac/1692180211ALMANACnew.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\almanac\1692180211ALMANACnew.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/almanac/new-almanac-2024.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\almanac\new-almanac-2024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/exam-schedule/Cambridge-2026-27.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\exam-schedule\Cambridge-2026-27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/exam-schedule/CBSE-2026-27.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\exam-schedule\CBSE-2026-27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/exam-schedule/Placements - II_page-0001.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\exam-schedule\Placements - II_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/exam-schedule/Placements -I_page-0001.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\exam-schedule\Placements -I_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-10.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-10.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-11.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-11.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-12.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-12.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-13.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-13.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-14.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-14.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-15.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-15.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-16.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-16.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-17.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-17.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-3.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-3.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-4.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-4.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-5.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-5.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-6.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-6.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-7.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-7.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-8.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-8.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/placements/L-9.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\placements\L-9.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/school-planner/school-planner-2025-26.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\school-planner\school-planner-2025-26.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/school-planner/school-planner.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\school-planner\school-planner.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/school-rules/school-rule-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\school-rules\school-rule-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/parents-corner/school-rules/school-rule-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\parents-corner\school-rules\school-rule-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-acer-ibt.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-acer-ibt.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-delnet.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-delnet.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-green-river.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-green-river.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-mindler.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-mindler.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-ndl.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-ndl.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-scholastic.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-scholastic.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-sof.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-sof.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partner-yamaha.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partner-yamaha.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/Partner7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\Partner7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/acer-ibt.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\acer-ibt.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/behas.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\behas.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/delnet.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\delnet.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/fw.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\fw.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/green-olympiad.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\green-olympiad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/green-river.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\green-river.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/humming-bird.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\humming-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/image.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\image.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/mindler.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\mindler.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/orange-global.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\orange-global.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/Partner-7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\Partner-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/scholastic.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\scholastic.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/silver-zone.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\silver-zone.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/sof.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\sof.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/partners/yamaha.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\partners\yamaha.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/qr-main.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\qr-main.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Badminton.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Badminton.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Cricket.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Cricket.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Dhruv-Jurel.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Dhruv-Jurel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/expert-designed.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\expert-designed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Football.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Football.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Gymnastics.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Gymnastics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Harsh-Tyagi.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Harsh-Tyagi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/High-tech-Fitnees.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\High-tech-Fitnees.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Indoor-Sports-Arena.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Indoor-Sports-Arena.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Innesh-Mahajan.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Innesh-Mahajan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/medical-professional.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\medical-professional.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/mr-mahesh.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\mr-mahesh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Multi-sports-complex.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Multi-sports-complex.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Natural-Turfn-Fields.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Natural-Turfn-Fields.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/our-mission.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\our-mission.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/our-vision.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\our-vision.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/regular-check-up.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\regular-check-up.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Rehabilitation-hub.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Rehabilitation-hub.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/sarvottam-school-of-sports.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\sarvottam-school-of-sports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Shivam-Mavi.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Shivam-Mavi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/sports-infrastructure.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\sports-infrastructure.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/support-for-athletes.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\support-for-athletes.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Swimming-Pool.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Swimming-Pool.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Swimming.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Swimming.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Table-Tennis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Table-Tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/unlock-your-athletic-potential-with-world-class-training.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\unlock-your-athletic-potential-with-world-class-training.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/school-of-sports/Video-Analysis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\school-of-sports\Video-Analysis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/silver-zone.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\silver-zone.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/ankit.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\ankit.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/avni.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\avni.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/daksh.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\daksh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/hifza.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\hifza.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/kanishka.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\kanishka.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/navya.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\navya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/prisha-mittal-grade-10-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\prisha-mittal-grade-10-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/rutwa.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\rutwa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/sayanjeet.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\sayanjeet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/sharnya-agrawal-grade-10-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\sharnya-agrawal-grade-10-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/shreyas.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\shreyas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/shrsty-roy-grade-10-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\shrsty-roy-grade-10-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade10/swara-trivedi-grade10-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade10\swara-trivedi-grade10-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/disha.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\disha.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/divyansh.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\divyansh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/fayeza.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\fayeza.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/mehak.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\mehak.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/neilanjana-shrivastav-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\neilanjana-shrivastav-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/niyati.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\niyati.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/pranav-rai-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\pranav-rai-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/ranveer.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\ranveer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/raunak-sharma-2025.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\raunak-sharma-2025.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/ritika.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\ritika.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/saanvi.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\saanvi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/grade12/unnati.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\grade12\unnati.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/grade10-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\grade10-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/grade12-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\grade12-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/neilanjana-shri-12-25.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\neilanjana-shri-12-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/pranav-rai-12-25.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\pranav-rai-12-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/prisha-10-25.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\prisha-10-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/toppers/home-page-image/shrsty-10-25.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\toppers\home-page-image\shrsty-10-25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/transport/bus-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\transport\bus-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/transport/bus-3.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\transport\bus-3.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/transport/bus-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\transport\bus-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/transport/bus-4.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\transport\bus-4.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/assets/img/web logo.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\web logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/img/web page blue.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\img\web page blue.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/js/jquery.slim.min.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/js/new-campus.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\new-campus.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/cambridge-2025-26.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\cambridge-2025-26.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/Cambridge-2026-27.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\Cambridge-2026-27.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/EXAMINATION SCHEDULE FOR CLASSES NUR-2 FOR THE SESSION 2024-25.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\EXAMINATION SCHEDULE FOR CLASSES NUR-2 FOR THE SESSION 2024-25.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/main-branch-25-26.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\main-branch-25-26.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/NEW_FEES_TECHZONE_IV_26-27 _22-08-2025.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\NEW_FEES_TECHZONE_IV_26-27 _22-08-2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/Placements - II.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\Placements - II.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/Placements -I.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\Placements -I.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/assets/pdf/TENTATIVE EXAMINATION SCHEDULE FOR CLASSES III TO XII FOR THE SESSION 2024-25.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\assets\pdf\TENTATIVE EXAMINATION SCHEDULE FOR CLASSES III TO XII FOR THE SESSION 2024-25.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/awards-and-accolades
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\awards-and-accolades.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/blogs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\blogs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/cambridge
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\cambridge.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/career
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\career.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/career-counselling
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\career-counselling.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/circulars
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\circulars.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/community-outreach
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\community-outreach.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/contact
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\contact.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/curriculum
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\curriculum.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/events
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\events.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/excursions
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\excursions.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/fees-structure
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\fees-structure.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/ibt
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\ibt.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/image-gallery
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\image-gallery.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/infirmary
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\infirmary.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/international-cultural-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\international-cultural-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/labs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\labs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/learning-stages
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\learning-stages.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/library
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\library.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/life-at-sarvottam
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\life-at-sarvottam.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/newsletter
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\newsletter.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/our-toppers
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\our-toppers.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/parent-speak
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\parent-speak.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/partners
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\partners.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/philosophy
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\philosophy.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/placements
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\placements.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/privacy-policy
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/registration
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\registration.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sarvottam-news
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sarvottam-news.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sarvottam-school-of-sports
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sarvottam-school-of-sports.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/school-planner
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\school-planner.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/school-policies
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\school-policies.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/school-rules
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\school-rules.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\index.htm
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/about-us
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\about-us.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/admin/assets/js/alert_show.js
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\admin\assets\js\alert_show.js
+Content Type: application/javascript
+
+Uri: https://www.sarvottamnoida.com/sector10/admission-enquiry
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\admission-enquiry.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/admission-policy
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\admission-policy.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/doc/New_Sector_10_admission_form_08-07-2025.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\doc\New_Sector_10_admission_form_08-07-2025.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/19.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\19.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/20.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\20.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/21.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\21.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/22.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\22.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/excellence.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\excellence.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/impact.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\impact.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/mission-sector10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\mission-sector10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/our-vision-sector10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\our-vision-sector10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/philosophy.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\philosophy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/philosophy/pedagogy.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\philosophy\pedagogy.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/philosophy/phil3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\philosophy\phil3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/philosophy/philosophy4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\philosophy\philosophy4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/resarch.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\resarch.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/Sec-10-2026-27.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\Sec-10-2026-27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/student.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\student.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/team/sarvottam_vice_principal_new_08-sep-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\team\sarvottam_vice_principal_new_08-sep-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/about-us/who-be.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\about-us\who-be.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/academics/curriculum/foundation-stage.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\academics\curriculum\foundation-stage.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/academics/curriculum/pen-icon.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\academics\curriculum\pen-icon.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/academics/curriculum/preparatory-stage-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\academics\curriculum\preparatory-stage-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/academics/learning-stages/learning Little-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\academics\learning-stages\learning Little-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/academics/learning-stages/learning1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\academics\learning-stages\learning1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-3.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-3.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-4.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-4.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-5.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-5.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/Certificate-6.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\Certificate-6.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-11.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-12.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-13.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-14.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-15.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-16.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-17.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-18.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-19.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-20.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-21.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-22.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-23.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-3.jpg.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-3.jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-8.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame-9.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/awards/hall-of-fame/Halfoffame.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\awards\hall-of-fame\Halfoffame.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/about-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/about-us-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\about-us-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/academics.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\academics.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/all-teacher.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\all-teacher.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/awards-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\awards-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/bann1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\bann1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/bg-shade.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\bg-shade.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/community-outreach.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\community-outreach.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/Counselling-banner.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\Counselling-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/excursion-banner.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\excursion-banner.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/ibt.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\ibt.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/infirmary-new.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\infirmary-new.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/labs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\labs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/library-new.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\library-new.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/philosophy.JPG
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\philosophy.JPG
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/sarvottam-building-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\sarvottam-building-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/sarvottam-renew-one.mp4
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\sarvottam-renew-one.mp4
+Content Type: video/mp4
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/skill-clubs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\skill-clubs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/skill-programs.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\skill-programs.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/sports.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\sports.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/teacher-enrichement-program.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\teacher-enrichement-program.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/technolgy-new.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\technolgy-new.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/banners/wellness-programs-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\banners\wellness-programs-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/career-counselling/Counselling-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\career-counselling\Counselling-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/clean-up.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\clean-up.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/comm.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\comm.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/dm-reach-sep-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\dm-reach-sep-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/KHUSHI-Initiative.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\KHUSHI-Initiative.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/little-learners-sep-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\little-learners-sep-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/student-offer-sep-2025.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\student-offer-sep-2025.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/visiting-old-age-home.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\visiting-old-age-home.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/community-outreach/volunteering-at-local-shelters-or-food-bank.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\community-outreach\volunteering-at-local-shelters-or-food-bank.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/excursions/kidzania-recursions.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\excursions\kidzania-recursions.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/excursions/movie-excursions.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\excursions\movie-excursions.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Classical-Dance.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Classical-Dance.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/coding.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\coding.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/community.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\community.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Eco-Club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Eco-Club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Einstine.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Einstine.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Fashion.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Fashion.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Financial-Literacy.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Financial-Literacy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Maths-Club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Maths-Club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/music.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\music.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/nature-club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\nature-club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/nutrition.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\nutrition.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/public-speaking.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\public-speaking.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/robot-club.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\robot-club.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Sculpture-Image.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Sculpture-Image.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/Stiching.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\Stiching.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/theatre.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\theatre.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/western-dance.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\western-dance.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-clubs/yoga.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-clubs\yoga.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/skill-programs/voluntary-service.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\skill-programs\voluntary-service.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Archery & Shooting Range.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Archery & Shooting Range.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/badminton.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\badminton.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/basketball-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\basketball-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Carom.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Carom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Chess-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Chess-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/cricket-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\cricket-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Football.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Football.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/IAYP.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\IAYP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/karate-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\karate-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Lawn-tennis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Lawn-tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/peer-education.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\peer-education.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Skating.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Skating.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/sports-sector10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\sports-sector10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Swimming.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Swimming.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Table Tennis.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Table Tennis.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/Wall-Climbing.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\Wall-Climbing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/sports/wellness-program.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\sports\wellness-program.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/beyond-academics/wellness-program/wellness-program-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\beyond-academics\wellness-program\wellness-program-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/green-olympiad.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\green-olympiad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/CBSE -Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\CBSE -Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/e-library.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\e-library.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/img09.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\img09.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/img10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\img10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/Skill-based -Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\Skill-based -Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/Value -Based- Curriculum.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\Value -Based- Curriculum.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/World-class- green -Campus.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\World-class- green -Campus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/home/yoga.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\home\yoga.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/humming-bird.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\humming-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/infirmary/infirmary-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\infirmary\infirmary-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/infirmary/infirmary-inner-1.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\infirmary\infirmary-inner-1.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/infirmary/infirmary-inner-2.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\infirmary\infirmary-inner-2.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/infirmary/infirmary-inner-3.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\infirmary\infirmary-inner-3.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/biology-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\biology-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/chemistry-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\chemistry-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/computer-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\computer-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/fashion-studio-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\fashion-studio-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/fine-arts.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\fine-arts.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/physics-lab.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\physics-lab.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/stream-lab-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\stream-lab-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/labs/Untitled design (5).jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\labs\Untitled design (5).jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/library/DELNET.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\library\DELNET.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/library/National Digital Library of India.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\library\National Digital Library of India.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/library/Scolastic Logo.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\library\Scolastic Logo.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/library/Virtual Library.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\library\Virtual Library.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/technologhy/GPS-buses.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\technologhy\GPS-buses.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/technologhy/sarvottam-building.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\technologhy\sarvottam-building.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/technologhy/Smart-Panel.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\technologhy\Smart-Panel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/technologhy/technology-inner.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\technologhy\technology-inner.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/infrastructure/technologhy/Wifi-campus.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\infrastructure\technologhy\Wifi-campus.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/media-pdf/HT-31st-july-25-Sarvottam-Print-ad-sec-10.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\media-pdf\HT-31st-july-25-Sarvottam-Print-ad-sec-10.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/new-campus/banner/banner33-mb.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\new-campus\banner\banner33-mb.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/new-logo-sarv.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\new-logo-sarv.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/orange-global.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\orange-global.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/our-team/Teacher- training-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\our-team\Teacher- training-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/our-team/Teacher-training-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\our-team\Teacher-training-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/our-team/Teacher-training-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\our-team\Teacher-training-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/our-team/Teacher-training-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\our-team\Teacher-training-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/our-team/Teacher-training-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\our-team\Teacher-training-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/almanac/1692180211ALMANACnew.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\almanac\1692180211ALMANACnew.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/almanac/new-almanac-2024.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\almanac\new-almanac-2024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/exam-schedule/Placements - II_page-0001.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\exam-schedule\Placements - II_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/exam-schedule/Placements -I_page-0001.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\exam-schedule\Placements -I_page-0001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/school-planner/school-planner-2025-26.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\school-planner\school-planner-2025-26.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/school-planner/school-planner.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\school-planner\school-planner.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/school-rules/school-rule-2.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\school-rules\school-rule-2.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/parents-corner/school-rules/schoolmoto-sector10.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\parents-corner\school-rules\schoolmoto-sector10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-acer-ibt.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-acer-ibt.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-delnet.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-delnet.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-green-river.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-green-river.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-mindler.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-mindler.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-ndl.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-ndl.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-scholastic.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-scholastic.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-sof.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-sof.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partner-yamaha.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partner-yamaha.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/Partner7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\Partner7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/acer-ibt.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\acer-ibt.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/behas.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\behas.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/delnet.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\delnet.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/fw.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\fw.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/green-olympiad.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\green-olympiad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/green-river.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\green-river.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/humming-bird.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\humming-bird.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/image.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\image.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/mindler.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\mindler.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/orange-global.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\orange-global.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-1.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-3.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-5.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-6.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/Partner-7.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\Partner-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/scholastic.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\scholastic.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/silver-zone.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\silver-zone.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/sof.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\sof.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/partners/yamaha.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\partners\yamaha.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/image-new-2.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\image-new-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-1.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-1.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-10.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-10.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-11.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-11.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-12.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-12.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-13.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-13.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-14.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-14.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-15.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-15.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-16.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-16.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-2.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-2.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-3.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-3.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-4.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-4.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-5.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-5.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-6.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-6.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-7.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-7.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-8.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-8.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/placeholderImage/slider-9.webp
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\placeholderImage\slider-9.webp
+Content Type: image/webp
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/qr-new.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\qr-new.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/sarvottam-sector10-building.jpeg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\sarvottam-sector10-building.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/silver-zone.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\silver-zone.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/ankit.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\ankit.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/avni.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\avni.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/daksh.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\daksh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/hifza.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\hifza.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/kanishka.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\kanishka.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/navya.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\navya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/rutwa.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\rutwa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/sayanjeet.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\sayanjeet.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade10/shreyas.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade10\shreyas.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/disha.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\disha.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/divyansh.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\divyansh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/fayeza.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\fayeza.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/mehak.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\mehak.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/niyati.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\niyati.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/ranveer.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\ranveer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/ritika.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\ritika.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/saanvi.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\saanvi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/grade12/unnati.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\grade12\unnati.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/home-page-image/grade10-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\home-page-image\grade10-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/toppers/home-page-image/grade12-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\toppers\home-page-image\grade12-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/transport/bus-1.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\transport\bus-1.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/transport/bus-3.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\transport\bus-3.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/transport/bus-4.jpg
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\transport\bus-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/img/transport/bus-4.png
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\img\transport\bus-4.png
+Content Type: image/png
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/pdf/Placements - II.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\pdf\Placements - II.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/pdf/Placements -I.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\pdf\Placements -I.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/pdf/Sec-10-2026-27.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\pdf\Sec-10-2026-27.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/assets/pdf/sector-10-fees-25-26.pdf
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\assets\pdf\sector-10-fees-25-26.pdf
+Content Type: application/pdf
+
+Uri: https://www.sarvottamnoida.com/sector10/awards-and-accolades
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\awards-and-accolades.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/blogs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\blogs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/career
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\career.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/career-counselling
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\career-counselling.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/circulars
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\circulars.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/community-outreach
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\community-outreach.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/contact
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\contact.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/curriculum
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\curriculum.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/events
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\events.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/excursions
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\excursions.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/fees-structure
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\fees-structure.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/ibt
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\ibt.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/image-gallery
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\image-gallery.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/infirmary
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\infirmary.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/international-cultural-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\international-cultural-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/labs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\labs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/learning-stages
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\learning-stages.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/library
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\library.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/media
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\media.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/newsletter
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\newsletter.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/our-toppers
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\our-toppers.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/partners
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\partners.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/philosophy
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\philosophy.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/registration
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\registration.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/sarvottam-news
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\sarvottam-news.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/school-planner
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\school-planner.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/school-policies
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\school-policies.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/school-rules
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\school-rules.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/skill-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\skill-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/sports
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\sports.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/student-clubs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\student-clubs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/student-handbook
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\student-handbook.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/teacher-enrichement-program
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\teacher-enrichement-program.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/team
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\team.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/technology
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\technology.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/transport
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\transport.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/video-gallery
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\video-gallery.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sector10/wellness-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sector10\wellness-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/skill-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\skill-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sports
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sports.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/sports-disciplines
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\sports-disciplines.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/student-clubs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\student-clubs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/student-council
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\student-council.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/student-handbook
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\student-handbook.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/teacher-enrichement-program
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\teacher-enrichement-program.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/team
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\team.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/technology
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\technology.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/transport
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\transport.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/unmatched-sporting-facilities
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\unmatched-sporting-facilities.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/video-gallery
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\video-gallery.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/wellness-programs
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\wellness-programs.html
+Content Type: text/html
+
+Uri: https://www.sarvottamnoida.com/your-safety-and-priority
+File Name: C:\Downloaded Web Sites\www.sarvottamnoida.com\your-safety-and-priority.html
+Content Type: text/html
+
